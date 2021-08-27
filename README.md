@@ -15,7 +15,7 @@
 # My main project:
 
 <p align="center">
-<img src="/screenshots/d4rk_cleaner.png" width="300">
+<img src="https://github.com/D4rK7355608/com.d4rk.cleaner/blob/master/screenshots/d4rk_cleaner.png" width="300">
 </p>
 
 ### 🛠 &nbsp;Tech Stack

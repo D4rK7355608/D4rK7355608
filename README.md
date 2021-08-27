@@ -10,7 +10,7 @@
 💡 &nbsp;I like to make Android apps with simple design ispired by Google.\
 ✍️ &nbsp;Constantly learning to make design more simplisic.\
 👨‍ &nbsp;My projects is just on GitHub.\
-📫 &nbsp;How to reach me **d4rk7355608@gmail.com**.\
+📫 &nbsp;How to reach me **d4rk7355608@gmail.com**
 
 # My main project:
 

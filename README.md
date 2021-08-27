@@ -7,6 +7,11 @@
 
 # Hello, I'm D4rK and I make Android apps open source and free for everyone.
 
+💡 &nbsp;I like to make Android apps with simple design ispired by Google.\
+✍️ &nbsp;Constantly learning to make design more simplisic.\
+👨‍ &nbsp;My projects is just on GitHub.\
+📫 &nbsp;How to reach me **d4rk7355608@gmail.com**.\
+
 # My main project:
 
 <p align="center">
@@ -28,7 +33,7 @@
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=D4rK7355608&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=D4rK73556088&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=D4rK7355608&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 

@@ -7,7 +7,7 @@
 
 # Hello, I'm D4rK and I make Android apps open source and free for everyone.
 
-💡 &nbsp;I like to make Android apps with simple design ispired by Google.\
+💡 &nbsp;I like to make Android apps with simple design inspired by Google.\
 ✍️ &nbsp;Constantly learning to make design more simplisic.\
 👨‍ &nbsp;My projects is just on GitHub.\
 📫 &nbsp;How to reach me **d4rk7355608@gmail.com**

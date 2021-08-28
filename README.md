@@ -5,7 +5,7 @@
 - ╚══╩═╩═╩═╩═╩╩╩╩═╝
 
 
-# Hello, I'm D4rK and I make Android apps open source and free for everyone.
+# Hello, I'm D4rK and I make Android apps, open source and free to use for everyone.
 
 💡 &nbsp;I like to make Android apps with simple design inspired by Google.\
 ✍️ &nbsp;Constantly learning to make design more simplisic.\
@@ -18,7 +18,7 @@
 <img src="https://github.com/D4rK7355608/com.d4rk.cleaner/blob/master/screenshots/d4rk_cleaner.png" width="300">
 </p>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack:
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
@@ -29,7 +29,7 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics:
 
 <p align="center">
 <a href="https://github.com/AVS1508">
@@ -38,7 +38,7 @@
 </a>
 </p>
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;More About Me:
 
 [<img src="https://github.com/D4rK7355608/com.d4rk.cleaner/blob/master/screenshots/badges/google_play_store.png"
 alt="Get it on Google Play"

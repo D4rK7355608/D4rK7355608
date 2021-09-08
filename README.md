@@ -4,13 +4,17 @@
 - ║║║║╩╣╚╣═╣║║║║║╩╣
 - ╚══╩═╩═╩═╩═╩╩╩╩═╝
 
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-# Hello, I'm D4rK and I make Android apps, open source and free to use for everyone.
+# I'm D4rK and I make Android apps, open source and free to use for everyone.
+
+<p align="center">
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+</p>
 
 💡 &nbsp;I like to make Android apps with simple design inspired by Google.\
 ✍️ &nbsp;Constantly learning to make design more simplisic.\
-👨‍ &nbsp;My projects is just on GitHub.\
-📫 &nbsp;How to reach me **d4rk7355608@gmail.com**
+👨‍ &nbsp;My projects is just on GitHub.
 
 # My main project:
 
@@ -23,6 +27,7 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
@@ -40,25 +45,23 @@
 </p>
 
 
-
 ### 👨🏻‍💻 &nbsp;More About Me:
+
+<a href="mailto:d4rk7355608@gmail.com"><img src="https://img.shields.io/badge/-d4rk7355608@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.deviantart.com/d4rk7355608"><img src="https://img.shields.io/badge/-d4rk7355608-05CC46?style=flat&logo=Deviantart&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCLDi-rmSRry0pNL-oVvGJAw"><img src="https://img.shields.io/badge/-D4rK-FF0000?style=flat&logo=Youtube&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCee5YBhGHVCF4JnQzoLFzVA"><img src="https://img.shields.io/badge/-Michael Tutorials-FF0000?style=flat&logo=Youtube&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCgtHCg34rrDvdkjjjPW2jhQ"><img src="https://img.shields.io/badge/-Desene Animate-FF0000?style=flat&logo=Youtube&logoColor=white"/></a>
 
 [<img src="https://github.com/D4rK7355608/com.d4rk.cleaner/blob/master/screenshots/badges/google_play_store.png"
 alt="Get it on Google Play"
 height="90">](https://play.google.com/store/apps/dev?id=5390214922640123642)
-[<img src="https://github.com/D4rK7355608/com.d4rk.cleaner/blob/master/screenshots/badges/youtube.png"
-alt="YouTube"
-height="90">](https://www.youtube.com/channel/UCLDi-rmSRry0pNL-oVvGJAw/featured)
-[<img src="https://github.com/D4rK7355608/com.d4rk.cleaner/blob/master/screenshots/badges/patreon.png"
+[<img src="https://github.com/D4rK7355608/com.d4rk.cleaner/blob/master/screenshots/badges/patreon.png" 
 alt="Patreon"
 height="90">](https://www.patreon.com/d4rk7355608)
-[<img src="https://github.com/D4rK7355608/com.d4rk.cleaner/blob/master/screenshots/badges/paypal.png"
+[<img src="https://github.com/D4rK7355608/com.d4rk.cleaner/blob/master/screenshots/badges/paypal.png" 
 alt="PayPall"
 height="90">](https://www.paypal.me/d4rkmichaeltutorials)
-[<img src="https://github.com/D4rK7355608/com.d4rk.cleaner/blob/master/screenshots/badges/deviant_art.png"
-alt="PayPall"
-height="90">](https://www.deviantart.com/d4rk7355608)
 [<img src="https://github.com/D4rK7355608/com.d4rk.cleaner/blob/master/screenshots/badges/gamejolt.png"
-alt="PayPall"
+alt="Gamejolt"
 height="90">](https://gamejolt.com/@D4rK_S-A-D)
-

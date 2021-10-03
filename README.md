@@ -54,12 +54,12 @@
 <a href="https://www.youtube.com/channel/UCee5YBhGHVCF4JnQzoLFzVA"><img src="https://img.shields.io/badge/-Michael Tutorials-FF0000?style=flat&logo=Youtube&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCgtHCg34rrDvdkjjjPW2jhQ"><img src="https://img.shields.io/badge/-Desene Animate-FF0000?style=flat&logo=Youtube&logoColor=white"/></a>
 
-[<img src="https://github.com/D4rK7355608/com.d4rk.cleaner/blob/master/screenshots/badges/google_play_store.png"
+[<img src="https://github.com/D4rK7355608/com.d4rk.cleaner/blob/master/img/badges/google_play_store.png"
 alt="Get it on Google Play"
 height="90">](https://play.google.com/store/apps/dev?id=5390214922640123642)
-[<img src="https://github.com/D4rK7355608/com.d4rk.cleaner/blob/master/screenshots/badges/patreon.png" 
+[<img src="https://github.com/D4rK7355608/com.d4rk.cleaner/blob/master/img/badges/patreon.png" 
 alt="Patreon"
 height="90">](https://www.patreon.com/d4rk7355608)
-[<img src="https://github.com/D4rK7355608/com.d4rk.cleaner/blob/master/screenshots/badges/paypal.png" 
+[<img src="https://github.com/D4rK7355608/com.d4rk.cleaner/blob/master/img/badges/paypal.png" 
 alt="PayPall"
 height="90">](https://www.paypal.me/d4rkmichaeltutorials)

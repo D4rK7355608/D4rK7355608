@@ -52,6 +52,8 @@
 <a href="https://www.youtube.com/channel/UCLDi-rmSRry0pNL-oVvGJAw"><img src="https://img.shields.io/badge/-D4rK-FF0000?style=flat&logo=Youtube&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCee5YBhGHVCF4JnQzoLFzVA"><img src="https://img.shields.io/badge/-Michael Tutorials-FF0000?style=flat&logo=Youtube&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCgtHCg34rrDvdkjjjPW2jhQ"><img src="https://img.shields.io/badge/-Desene Animate-FF0000?style=flat&logo=Youtube&logoColor=white"/></a>
+<img src="https://img.shields.io/twitter/follow/D4rK7355608?style=social"/></a>
+
 
 [<img src="https://github.com/D4rK7355608/com.d4rk.cleaner/blob/master/img/badges/google_play_store.png"
 alt="Get it on Google Play"

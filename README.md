@@ -14,12 +14,12 @@
 
 💡 &nbsp;I like to make Android apps with simple design inspired by Google.\
 ✍️ &nbsp;Constantly learning to make design more simplisic.\
-👨‍ &nbsp;My projects is just on GitHub.
+👨‍ &nbsp;My projects can be found in [Google Play Store](https://play.google.com/store/apps/dev?id=5390214922640123642) & [GitHub](https://github.com/D4rK7355608).
 
 # My main project:
 
 <p align="center">
-<img src="https://github.com/D4rK7355608/com.d4rk.englishwithlidia.plus/blob/master/app/src/main/play/listings/en-US/graphics/feature-graphic/feature-graphic.png" width="400">
+<img src="https://github.com/D4rK7355608/com.d4rk.androidtutorials/blob/master/app/src/main/play/listings/en-US/graphics/feature-graphic/feature-graphic.png" width="400">
 </p>
 
 ### 🛠 &nbsp;Tech Stack:

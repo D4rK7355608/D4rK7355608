@@ -54,6 +54,6 @@
 <a href="https://www.youtube.com/c/D4rK7355608/"><img src="https://img.shields.io/youtube/channel/subscribers/UCLDi-rmSRry0pNL-oVvGJAw?color=darkred&label=D4rK&logo=youtube&logoColor=darkred&style=for-the-badge"/></a>
 <a href="https://github.com/D4rK7355608/"><img src="https://img.shields.io/github/followers/D4rK7355608?color=white&logo=GitHub&style=for-the-badge"/></a>
 
-[<img src="https://raw.githubusercontent.com/steverichey/google-play-badge-svg/master/img/en_get.svg"
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
 alt="Get it on Google Play"
 height="90">](https://play.google.com/store/apps/dev?id=5390214922640123642)

@@ -1,8 +1,8 @@
 ## D4rK
 
-- ╔╦╦╦═╦╗╔═╦═╦══╦═╗
-- ║║║║╩╣╚╣═╣║║║║║╩╣
-- ╚══╩═╩═╩═╩═╩╩╩╩═╝
+╔╦╦╦═╦╗╔═╦═╦══╦═╗ \
+║║║║╩╣╚╣═╣║║║║║╩╣ \
+╚══╩═╩═╩═╩═╩╩╩╩═╝
 
 # <img height="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"> Hello world!&nbsp;<img height="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif">
 

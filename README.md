@@ -4,7 +4,7 @@
 ║║║║╩╣╚╣═╣║║║║║╩╣ \
 ╚══╩═╩═╩═╩═╩╩╩╩═╝
 
-# <img height="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"> Hello world!&nbsp;<img height="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif">
+## <img height="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"> Hello world!&nbsp;<img height="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif">
 
 I'm D4rK, an Android app developer who is dedicated to creating innovative and functional applications that are accessible to everyone. My passion for technology drives me to develop user-friendly interfaces that are easy to navigate and enjoy.
 
@@ -22,13 +22,13 @@ I take pride in my attention to detail and am always looking for ways to improve
 
 👨‍ I believe that every programmer starts somewhere, and for me, it was with the classic "Hello World!" program. So if you're just starting out on your programming journey, don't be afraid to dive in and start experimenting. Who knows what amazing things you'll create! 💻 🚀 💡 📱 🔨
 
-# My main project:
+## My main project:
 
 <p align="center">
 <img src="https://github.com/D4rK7355608/com.d4rk.androidtutorials/blob/master/app/src/main/play/listings/en-US/graphics/feature-graphic/feature-graphic.png" width="400">
 </p>
 
-### 🛠 &nbsp;Tech Stack:
+## 🛠 &nbsp;Tech Stack:
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-05122A?style=for-the-badge&logo=kotlin&logoColor)&nbsp;
 ![Git](https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git&logoColor)&nbsp;
@@ -39,7 +39,7 @@ I take pride in my attention to detail and am always looking for ways to improve
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-05122A?style=for-the-badge&logo=adobe-photoshop&logoColor)&nbsp;
 ![C++](https://img.shields.io/badge/c++-05122A?style=for-the-badge&logo=cplusplus&logoColor)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics:
+## ⚙️ &nbsp;GitHub Analytics:
 
 <p align="center">
 <a href="https://github.com/AVS1508">

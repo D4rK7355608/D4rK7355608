@@ -31,13 +31,17 @@ I take pride in my attention to detail and am always looking for ways to improve
 ## 🛠 &nbsp;Tech Stack:
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-05122A?style=for-the-badge&logo=kotlin&logoColor)&nbsp;
-![Git](https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git&logoColor)&nbsp;
+![C++](https://img.shields.io/badge/c++-05122A?style=for-the-badge&logo=cplusplus&logoColor)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-05122A?style=for-the-badge&logo=html5&logoColor)&nbsp;
+![Gradle](https://img.shields.io/badge/Gradle-05122A?style=for-the-badge&logo=gradle&logoColor)&nbsp;
+![Git](https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git&logoColor)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=github&logoColor)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-05122A?style=for-the-badge&logo=firebase&logoColor)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visualstudio&logoColor)&nbsp;
+![Android Studio](https://img.shields.io/badge/Android%20Studio-05122A?style=for-the-badge&logo=Androidstudio&logoColor)&nbsp;
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-05122A?style=for-the-badge&logo=adobe-illustrator&logoColor)&nbsp;
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-05122A?style=for-the-badge&logo=adobe-photoshop&logoColor)&nbsp;
-![C++](https://img.shields.io/badge/c++-05122A?style=for-the-badge&logo=cplusplus&logoColor)&nbsp;
+![Google Play Store](https://img.shields.io/badge/Google%20Play%20Store-05122A?style=for-the-badge&logo=googleplay&logoColor)&nbsp;
 
 ## ⚙️ &nbsp;GitHub Analytics:
 

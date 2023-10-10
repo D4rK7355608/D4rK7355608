@@ -1,4 +1,8 @@
-## D4rK
+<p align="center">
+  <img src="https://a.deviantart.net/avatars-big/d/4/d4rk7355608.png?12" width="98">
+</p>
+
+# D4rK
 
 ╔╦╦╦═╦╗╔═╦═╦══╦═╗ \
 ║║║║╩╣╚╣═╣║║║║║╩╣ \
@@ -6,21 +10,11 @@
 
 ## <img height="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"> Hello world!&nbsp;<img height="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif">
 
-I'm D4rK, an Android app developer who is dedicated to creating innovative and functional applications that are accessible to everyone. My passion for technology drives me to develop user-friendly interfaces that are easy to navigate and enjoy.
+I am a passionate Android app developer dedicated to creating innovative, functional, and accessible applications. My expertise in technology and design drives me to develop user-friendly interfaces that are both beautiful and easy to navigate.
 
-I believe that high-quality apps should be available to all without any financial burden. That's why all of my apps are open-source and free for anyone to use. I've been developing apps for a few years and have gained a loyal following of users who appreciate the effort I put into my work.
+I believe that high-quality apps should be accessible to everyone, regardless of financial means. That's why I release all of my apps as open-source software, making them free for anyone to use and modify. With a loyal following of users who appreciate my attention to detail and commitment to excellence, I strive to provide reliable and functional Android apps to all.
 
-I take pride in my attention to detail and am always looking for ways to improve my apps. With my commitment and hard work, I strive to provide reliable and functional Android apps to all users. If you're in search of an Android app that is both dependable and user-friendly, I encourage you to check out my collection of apps. You won't be disappointed!
-
-<p align="center">
-<img alt="Night Coding" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/New__revised_0312_Keyword_blog-header-animated-final_YCPcPYO.gif"/>
-</p>
-
-💡 I pride myself on creating Android apps with a simple, clean design inspired by Google's material design guidelines. As a designer, I'm constantly learning and striving to make my designs even more minimalistic and user-friendly.
-
-✍️ If you're interested in checking out my work, you can find my projects on GitHub. Most of them are open-source software (OSS), which means that you can access and modify the source code for free.
-
-👨‍ I believe that every programmer starts somewhere, and for me, it was with the classic "Hello World!" program. So if you're just starting out on your programming journey, don't be afraid to dive in and start experimenting. Who knows what amazing things you'll create! 💻 🚀 💡 📱 🔨
+If you're looking for an Android app that is both dependable and user-friendly, I encourage you to browse my collection of apps on GitHub. You won't be disappointed!
 
 ## My main project:
 
@@ -98,5 +92,3 @@ I take pride in my attention to detail and am always looking for ways to improve
 
 __Privacy Policy__ [here](https://sites.google.com/view/d4rk7355608/more/apps/privacy-policy).
 __Terms of Service__ [here](https://sites.google.com/view/d4rk7355608/more/apps/terms-of-service).
-
-![license](https://imgur.com/QQlcEVT.png)

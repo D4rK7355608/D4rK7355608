@@ -82,7 +82,7 @@ If you're looking for an Android app that is both dependable and user-friendly, 
 ### ● Social Profiles:
 <a href="https://gamejolt.com/@D4rK7355608"><img src="https://img.shields.io/badge/gamejolt-black?style=for-the-badge&logo=gamejolt"/></a>
 <a href="https://steamcommunity.com/id/d4rk7355608"><img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam"/></a>
-<a href="https://steamcommunity.com/tradeoffer/new/?partner=892981294&token=pxsUtrm3"><img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam"/></a>
+<a href="https://steamcommunity.com/tradeoffer/new/?partner=892981294&token=pxsUtrm3"><img src="https://img.shields.io/badge/Steam%20Trade-black?style=for-the-badge&logo=steam"/></a>
 <a href="https://www.tiktok.com/@d4rk7355608"><img src="https://img.shields.io/badge/TikTok:%20D4rK7355608-black?style=for-the-badge&logo=tiktok"/></a>
 <a href="https://www.tiktok.com/@d4rkrekords"><img src="https://img.shields.io/badge/TikTok:%20D4rK%20Rekords-black?style=for-the-badge&logo=tiktok"/></a>
 <a href="https://twitter.com/D4rK7355608"><img src="https://img.shields.io/twitter/follow/D4rK7355608?style=for-the-badge&logo=x"/></a>

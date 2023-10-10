@@ -61,8 +61,8 @@ If you're looking for an Android app that is both dependable and user-friendly, 
 
 ### ● Developer Portfolio:
 <a href="https://github.com/D4rK7355608"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=Github"/></a>
-<a href="https://g.dev/D4rK7355608"><img src="https://img.shields.io/badge/Google%20Dev-white?style=for-the-badge&logo=google&logoColor=black"/></a>
-<a href="https://play.google.com/store/apps/dev?id=5390214922640123642"><img src="https://img.shields.io/badge/Google%20Play%20Store-lightblue?style=for-the-badge&logoColor=black&logo=googleplay"/></a>
+<a href="https://g.dev/D4rK7355608"><img src="https://img.shields.io/badge/Google%20Dev-black?style=for-the-badge&logo=google&logoColor=white"/></a>
+<a href="https://play.google.com/store/apps/dev?id=5390214922640123642"><img src="https://img.shields.io/badge/Google%20Play%20Store-black?style=for-the-badge&logoColor=white&logo=googleplay"/></a>
 
 ### ● Graphics Portfolio:
 <a href="https://www.deviantart.com/d4rk7355608"><img src="https://img.shields.io/badge/deviantart-black?style=for-the-badge&logo=deviantart"/></a>

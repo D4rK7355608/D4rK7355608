@@ -1,13 +1,3 @@
-<p align="center">
-  <img src="https://a.deviantart.net/avatars-big/d/4/d4rk7355608.png?12" width="98">
-</p>
-
-# D4rK
-
-╔╦╦╦═╦╗╔═╦═╦══╦═╗ \
-║║║║╩╣╚╣═╣║║║║║╩╣ \
-╚══╩═╩═╩═╩═╩╩╩╩═╝
-
 ## <img height="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"> Hello world!&nbsp;<img height="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif">
 
 I am a passionate Android app developer dedicated to creating innovative, functional, and accessible applications. My expertise in technology and design drives me to develop user-friendly interfaces that are both beautiful and easy to navigate.
